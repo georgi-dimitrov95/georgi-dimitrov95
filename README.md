@@ -1,11 +1,11 @@
-# Georgi Dimov Dimitrov
+# 👋 Hi there, I'm Georgi Dimitrov
 
 **`Aspiring Software Developer`**
 
-I am an enthusiastic and motivated individual focused on deepening my understanding of backend development primarily with Java, Spring and relational databases. Eager to add long-lasting value to the tech sector by leveraging my newfound passion for software development. 
+Welcome to my GitHub profile! I am an enthusiastic and motivated individual focused on deepening my understanding of backend development primarily with Java, Spring and relational databases. Eager to add long-lasting value to the tech sector by leveraging my newfound passion for software development. 
   
-- 🔭 I’m currently working on [Book Social Network](https://github.com/georgi-dimitrov95/book-social-network), a platform allowing users to manage and exchange their books.<br>
-- 🌱 I’m currently learning Angular & Spring Security with JWT<br>
+- 🔭 I’m currently working on [Book Social Network](https://github.com/georgi-dimitrov95/book-social-network), a platform allowing users to manage and exchange their books
+- 🌱 I’m currently learning Angular & Spring Security with JWT
 - 📫 How to reach me: <georgi.dimov.dimitrov95@gmail.com>
 
 # 💻 Tech Stack:
